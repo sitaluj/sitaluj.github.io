@@ -1,0 +1,39 @@
+---
+title: "Sita Lujintanon"
+image: "Sita.png"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/sitaluj/"
+  - label: Twitter
+    url: "https://twitter.com/sitaluj"
+  - label: GitHub
+    url: "https://github.com/sitaluj"
+  - label: Email
+    url: "mailto:sitaluj@gmail.com"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+Sita Lujintanon is an epidemiologist by training and an experienced implementation researcher who works to improve equity in HIV care engagement. She has supported the implementation of the key population-led HIV treatment services in Thailand. She uses implementation science frameworks to design and evaluate implementation strategies that aim to improve the HIV cascade outcomes. Sita has a growing interest in overcoming missing data the in the real world to improve outcome assessment.
+
+## Education
+
+**Johns Hopkins Bloomberg School of Public Health** | Baltimore, MD
+
+Ph.D. Student in Epidemiolgy | August 2023 - Present
+
+**Johns Hopkins Bloomberg School of Public Health** | Baltimore, MD
+
+B.S. in Computer Science | September 2005 - May 2009
+
+**Mahidol University International College** | Nakhon Pathom, Thailand
+
+B.S. in Biological Sciences | September 2016 - July 2019
+
+## Experience
+
+**Johns Hopkins Bloomberg School of Public Health** | Graduate Research Assistant | October 2021 - Present
+
+**Institute of HIV Research and Innovation** | Implementation Science Program Assistant | August 2019 - August 2021
