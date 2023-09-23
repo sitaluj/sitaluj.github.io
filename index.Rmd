@@ -16,7 +16,7 @@ output:
  
 ## Bio 🙋🏻‍♀️
 
-Sita Lujintanon is an epidemiologist by training and an implementation researcher who works to improve equity in HIV care engagement in Thailand, where she is from, and globally. She has a growing interest in overcoming missing data in the real world for improved HIV cascade outcome assessment. During her free time, Sita enjoys windsurfing, scuba diving, and hanging out with her dog, Sam 🐶. She is also learning how to code efficiently and looking forward to learn how to create a function and loop in R. 
+Sita Lujintanon is an implementation researcher and an epidemiologist by training. Her works aims to improve equity in HIV care engagement in Thailand, where she is from, and globally. She has a growing interest in overcoming missing data in the real world for improved HIV cascade outcome assessment. During her free time, Sita enjoys windsurfing, scuba diving, and hanging out with her dog, Sam 🐶. 
 
 ## Education 📚
 
@@ -32,7 +32,7 @@ BS in Biological Sciences | September 2016 - July 2019
 
 ## Experience 🌏
 
-**Johns Hopkins Bloomberg School of Public Health** | Graduate Research Assistant | October 2021 - Present
+**Johns Hopkins Bloomberg School of Public Health** | Graduate Research Assistant at Implementation Science Core, Center for AIDS Research | October 2021 - Present
 
 **Institute of HIV Research and Innovation** | Implementation Science Program Assistant | August 2019 - August 2021
 
