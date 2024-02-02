@@ -9,7 +9,7 @@ links:
   - label: Google Scholar
     url: "https://scholar.google.com/citations?user=jRFOjo0AAAAJ&hl=en"
   - label: Email
-    url: "mailto:sitaluj@gmail.com"
+    url: "mailto:slujint1@jhu.edu"
 output:
   postcards::trestles
 ---
