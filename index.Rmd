@@ -12,17 +12,15 @@ output:
   postcards::trestles
 ---
 
-## Bio 🙋🏻‍♀️
+## Bio 🧘🏻‍♀️
 
-Sita Lujintanon is an epidemiologic-implementation researcher. Her works aims to promote equity in HIV care engagement in Thailand and globally.
-
-She has a growing interest in overcoming missing data problems, particularly related to missing outcomes due to loss to follow-up and competing event, and applying observational-implementation research approach to rapidly generate evidence to inform real-world interventions and policies.
+Sita Lujintanon is an epidemiologic-implementation researcher from Thailand. Her works aims to promote equity in HIV care engagement in Thailand and globally. She has a growing interest in overcoming missing data problems, particularly related to missing outcomes due to loss to follow-up and competing event, and applying observational-implementation research approach to rapidly generate evidence to inform real-world interventions and policies.
 
 During her free time, Sita enjoys windsurfing, scuba diving, hiking, and hanging out with her long-distance dog, Sam 🐶.
 
-## Education 📚
+## Education 🎓
 
-**Johns Hopkins Bloomberg School of Public Health** \| Baltimore, MD
+**Johns Hopkins School of Public Health** \| Baltimore, MD
 
 PhD Student in Epidemiolgy \| August 2023 - Present
 
