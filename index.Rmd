@@ -14,26 +14,22 @@ output:
 
 ## Bio 🧘🏻‍♀️
 
-Sita Lujintanon is an epidemiologic-implementation researcher from Thailand. Her works aims to promote equity in HIV care engagement in Thailand and globally. She has a growing interest in overcoming missing data problems, particularly related to missing outcomes due to loss to follow-up and competing event, and applying observational-implementation research approach to rapidly generate evidence to inform real-world interventions and policies.
-
-During her free time, Sita enjoys windsurfing, scuba diving, hiking, and hanging out with her long-distance dog, Sam 🐶.
+**Sita Lujintanon is an epidemiologic-implementation researcher.** Her research aims to **promote equity in HIV care engagement** in Thailand and globally. She is highly interested in using epidemiologic methods to answer impactful questions with imperfect data and overcoming **missing data problems**, particularly related to missing outcomes due to loss to follow-up and competing event. She also has a growing interest in applying **observational-implementation research** approach to rapidly generate evidence to inform effective real-world interventions and policies.
 
 ## Education 🎓
 
-**Johns Hopkins School of Public Health** \| Baltimore, MD
+**PhD Student in Epidemiolgy** \| Johns Hopkins School of Public Health \| August 2023 - Present
 
-PhD Student in Epidemiolgy \| August 2023 - Present
+**ScM in Epidemiolgy** \| Johns Hopkins School of Public Health **\|** August 2021 - May 2023
 
-ScM in Epidemiolgy \| August 2021 - May 2023
-
-**Mahidol University International College** \| Nakhon Pathom, Thailand
-
-BS in Biological Sciences \| September 2016 - July 2019
+**BS in Biological Sciences** \| Mahidol University International College **\|** September 2016 - July 2019
 
 ## Experience 🌏
 
-**Johns Hopkins Bloomberg School of Public Health** \| Graduate Research Assistant \| October 2021 - Present
+**Co-Founder & Co-President** \| [Implementation Science Student Working Group](https://jhu.campusgroups.com/isswg/home/) \| Johns Hopkins School of Public Health \| August 2023 - Present
 
-**Institute of HIV Research and Innovation** \| Program Assistant \| August 2019 - August 2021
+**Graduate Research Assistant** \| [Implementation Science Core](https://hopkinscfar.org/science-cores/implementation-science-swg/) \| [LIVE project](https://live.idig.science/) \| Johns Hopkins School of Public Health **\|** October 2021 - Present
 
-**Thai Red Cross AIDS Research Centre** \| Student Intern \| August 2017 - August 2019
+**Program Assistant** \| [HIV Treatment Programs](https://ihri.org/hiv-treatment/) \| Institute of HIV Research and Innovation **\|** August 2019 - August 2021
+
+**Student Intern** \| Thai Red Cross AIDS Research Centre \| August 2017 - August 2019
