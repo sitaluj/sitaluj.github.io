@@ -14,7 +14,7 @@ output:
 
 ## Bio 🧘🏻‍♀️
 
-**Sita Lujintanon is an epidemiologic-implementation researcher.** Her research aims to **promote equity in HIV care engagement** in Thailand and globally. She is highly interested in using epidemiologic methods to answer impactful questions with imperfect data and overcoming **missing data problems**, particularly related to missing outcomes due to loss to follow-up and competing event. She also has a growing interest in applying **observational-implementation research** approach to rapidly generate evidence to inform effective real-world interventions and policies.
+**Sita Lujintanon is an epidemiologic-implementation researcher.** Her research aims to **promote equity in HIV care engagement** in Thailand and globally. She has a keen interest in using epidemiologic methods to answer impactful questions with imperfect data and overcoming **missing data problems**, particularly related to missing outcomes due to loss to follow-up and competing event. She also has a growing interest in applying **observational-implementation research** approach to rapidly generate evidence to inform effective real-world interventions and policies.
 
 ## Education 🎓
 
